@@ -275,6 +275,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = KK26JKU2YA;
 				INFOPLIST_FILE = "StickerPack StickerPackExtension/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.lambdaschool.StickerPack.StickerPackExtension;
@@ -289,6 +290,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = KK26JKU2YA;
 				INFOPLIST_FILE = "StickerPack StickerPackExtension/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.lambdaschool.StickerPack.StickerPackExtension;
@@ -303,6 +305,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = KK26JKU2YA;
 				INFOPLIST_FILE = StickerPack/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.lambdaschool.StickerPack;
@@ -316,6 +319,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = KK26JKU2YA;
 				INFOPLIST_FILE = StickerPack/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.lambdaschool.StickerPack;
